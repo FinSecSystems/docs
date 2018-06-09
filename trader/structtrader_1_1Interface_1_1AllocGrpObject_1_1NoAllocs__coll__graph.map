@@ -1,0 +1,8 @@
+<map id="trader::Interface::AllocGrpObject::NoAllocs" name="trader::Interface::AllocGrpObject::NoAllocs">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1NestedPartiesObject.html" title="trader::Interface::\lNestedPartiesObject" alt="" coords="276,5,419,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1ClrInstGrpObject.html" title="trader::Interface::\lClrInstGrpObject" alt="" coords="286,71,409,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1MiscFeesGrpObject.html" title="trader::Interface::\lMiscFeesGrpObject" alt="" coords="278,136,417,177"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1SettlInstructionsDataObject.html" title="trader::Interface::\lSettlInstructionsDataObject" alt="" coords="256,201,439,243"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1DlvyInstGrpObject.html" title="trader::Interface::\lDlvyInstGrpObject" alt="" coords="5,201,136,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1CommissionDataObject.html" title="trader::Interface::\lCommissionDataObject" alt="" coords="267,267,428,308"/>
+</map>

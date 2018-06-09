@@ -1,0 +1,11 @@
+<map id="trader::Interface::Connection" name="trader::Interface::Connection">
+<area shape="rect" id="node4" href="$classtrader_1_1Interface_1_1CallConnection.html" title="trader::Interface::\lCallConnection" alt="" coords="393,125,515,166"/>
+<area shape="rect" id="node10" href="$classtrader_1_1Interface_1_1MessageReceivingConnection.html" title="trader::Interface::\lMessageReceivingConnection" alt="" coords="355,211,553,253"/>
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IConnection.html" title="trader::Interface::\lIConnection" alt="" coords="9,150,132,191"/>
+<area shape="rect" id="node5" href="$classtrader_1_1BittrexConnection.html" title="trader::BittrexConnection" alt="" coords="631,5,798,32"/>
+<area shape="rect" id="node6" href="$classtrader_1_1CryptowatchConnection.html" title="A cryptowatch connection. " alt="" coords="613,56,816,83"/>
+<area shape="rect" id="node7" href="$classtrader_1_1ExchangeratelabConnection.html" title="An exchangeratelab connection. " alt="" coords="601,107,828,133"/>
+<area shape="rect" id="node8" href="$classtrader_1_1FybConnection.html" title="A fyb connection. " alt="" coords="639,157,790,184"/>
+<area shape="rect" id="node9" href="$classtrader_1_1KrakenConnection.html" title="A kraken connection. " alt="" coords="629,208,800,235"/>
+<area shape="rect" id="node11" href="$classtrader_1_1BittrexProcessingConnection.html" title="A bittrex processing connection. " alt="" coords="631,259,798,301"/>
+</map>

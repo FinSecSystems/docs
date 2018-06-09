@@ -1,0 +1,6 @@
+<map id="trader::Interface::MassQuoteAcknowledgementData" name="trader::Interface::MassQuoteAcknowledgementData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="200,5,323,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="200,71,323,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1QuotSetAckGrpObject.html" title="trader::Interface::\lQuotSetAckGrpObject" alt="" coords="185,136,337,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1TargetPartiesObject.html" title="trader::Interface::\lTargetPartiesObject" alt="" coords="192,201,331,243"/>
+</map>

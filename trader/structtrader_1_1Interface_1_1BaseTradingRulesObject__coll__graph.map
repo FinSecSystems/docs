@@ -1,0 +1,5 @@
+<map id="trader::Interface::BaseTradingRulesObject" name="trader::Interface::BaseTradingRulesObject">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1PriceLimitsObject.html" title="trader::Interface::\lPriceLimitsObject" alt="" coords="13,5,139,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1LotTypeRulesObject.html" title="trader::Interface::\lLotTypeRulesObject" alt="" coords="5,71,147,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1TickRulesObject.html" title="trader::Interface::\lTickRulesObject" alt="" coords="15,136,137,177"/>
+</map>

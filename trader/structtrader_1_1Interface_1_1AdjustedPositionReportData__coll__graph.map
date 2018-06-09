@@ -1,0 +1,6 @@
+<map id="trader::Interface::AdjustedPositionReportData" name="trader::Interface::AdjustedPositionReportData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="188,5,311,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="188,71,311,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1InstrmtGrpObject.html" title="trader::Interface::\lInstrmtGrpObject" alt="" coords="188,136,311,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1PositionQtyObject.html" title="trader::Interface::\lPositionQtyObject" alt="" coords="185,201,313,243"/>
+</map>

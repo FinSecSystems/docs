@@ -1,0 +1,6 @@
+<map id="trader::Interface::RegistrationInstructionsData" name="trader::Interface::RegistrationInstructionsData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="201,5,324,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="201,71,324,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1RgstDistInstGrpObject.html" title="trader::Interface::\lRgstDistInstGrpObject" alt="" coords="185,136,340,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1RgstDtlsGrpObject.html" title="trader::Interface::\lRgstDtlsGrpObject" alt="" coords="196,201,329,243"/>
+</map>

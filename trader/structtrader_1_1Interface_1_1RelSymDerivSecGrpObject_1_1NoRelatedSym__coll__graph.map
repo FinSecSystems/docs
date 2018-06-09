@@ -1,0 +1,12 @@
+<map id="trader::Interface::RelSymDerivSecGrpObject::NoRelatedSym" name="trader::Interface::RelSymDerivSecGrpObject::NoRelatedSym">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="345,5,487,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1SecondaryPriceLimitsObject.html" title="trader::Interface::\lSecondaryPriceLimitsObject" alt="" coords="323,71,509,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1InstrumentExtensionObject.html" title="trader::Interface::\lInstrumentExtensionObject" alt="" coords="326,136,506,177"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1AttrbGrpObject.html" title="trader::Interface::\lAttrbGrpObject" alt="" coords="25,87,148,128"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="355,251,477,292"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,152,154,193"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,217,148,259"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,283,168,324"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,348,163,389"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,413,154,455"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="trader::Interface::TradingSessionStatusData" name="trader::Interface::TradingSessionStatusData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="355,19,477,61"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1ApplicationSequenceControlObject.html" title="trader::Interface::\lApplicationSequenceControl\lObject" alt="" coords="323,91,509,147"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="355,182,477,223"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,57,154,98"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,122,148,163"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,187,168,229"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,253,163,294"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,318,154,359"/>
+</map>

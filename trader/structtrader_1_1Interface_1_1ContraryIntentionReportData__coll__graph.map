@@ -1,0 +1,13 @@
+<map id="trader::Interface::ContraryIntentionReportData" name="trader::Interface::ContraryIntentionReportData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="355,5,477,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1UndInstrmtGrpObject.html" title="trader::Interface::\lUndInstrmtGrpObject" alt="" coords="343,71,489,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="355,136,477,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1ApplicationSequenceControlObject.html" title="trader::Interface::\lApplicationSequenceControl\lObject" alt="" coords="323,202,509,258"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="355,283,477,324"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,152,154,193"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,217,148,259"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,283,168,324"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,348,163,389"/>
+<area shape="rect" id="node12" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,413,154,455"/>
+<area shape="rect" id="node13" href="$structtrader_1_1Interface_1_1ExpirationQtyObject.html" title="trader::Interface::\lExpirationQtyObject" alt="" coords="347,348,485,389"/>
+</map>

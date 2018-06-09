@@ -1,0 +1,4 @@
+<map id="trader::Interface::TradeReportOrderDetailObject" name="trader::Interface::TradeReportOrderDetailObject">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1OrderQtyDataObject.html" title="trader::Interface::\lOrderQtyDataObject" alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1DisplayInstructionObject.html" title="trader::Interface::\lDisplayInstructionObject" alt="" coords="171,5,336,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="trader::Interface::NewOrderListData" name="trader::Interface::NewOrderListData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="189,5,311,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1ListOrdGrpObject.html" title="trader::Interface::\lListOrdGrpObject" alt="" coords="189,71,311,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1RootPartiesObject.html" title="trader::Interface::\lRootPartiesObject" alt="" coords="185,136,315,177"/>
+</map>

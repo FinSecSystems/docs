@@ -1,0 +1,5 @@
+<map id="trader::Interface::SettlementObligationReportData" name="trader::Interface::SettlementObligationReportData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="217,5,340,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1ApplicationSequenceControlObject.html" title="trader::Interface::\lApplicationSequenceControl\lObject" alt="" coords="185,71,372,127"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1SettlObligationInstructionsObject.html" title="trader::Interface::\lSettlObligationInstructions\lObject" alt="" coords="191,151,366,207"/>
+</map>

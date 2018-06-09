@@ -1,0 +1,9 @@
+<map id="trader::Interface::DerivativeSecurityDefinitionObject" name="trader::Interface::DerivativeSecurityDefinitionObject">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1MarketSegmentGrpObject.html" title="trader::Interface::\lMarketSegmentGrpObject" alt="" coords="421,5,595,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1DerivativeInstrumentAttributeObject.html" title="trader::Interface::\lDerivativeInstrumentAttribute\lObject" alt="" coords="412,71,604,127"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1DerivativeInstrumentObject.html" title="trader::Interface::\lDerivativeInstrumentObject" alt="" coords="417,152,599,193"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1DerivativeSecurityAltIDGrpObject.html" title="trader::Interface::\lDerivativeSecurityAltIDGrp\lObject" alt="" coords="13,27,193,83"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1DerivativeInstrumentPartiesObject.html" title="trader::Interface::\lDerivativeInstrumentParties\lObject" alt="" coords="11,107,195,163"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1DerivativeSecurityXMLObject.html" title="trader::Interface::\lDerivativeSecurityXMLObject" alt="" coords="5,188,200,229"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1DerivativeEventsGrpObject.html" title="trader::Interface::\lDerivativeEventsGrpObject" alt="" coords="12,253,193,295"/>
+</map>

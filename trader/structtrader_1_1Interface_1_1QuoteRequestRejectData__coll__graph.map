@@ -1,0 +1,5 @@
+<map id="trader::Interface::QuoteRequestRejectData" name="trader::Interface::QuoteRequestRejectData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="203,5,325,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1RootPartiesObject.html" title="trader::Interface::\lRootPartiesObject" alt="" coords="199,71,329,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1QuotReqRjctGrpObject.html" title="trader::Interface::\lQuotReqRjctGrpObject" alt="" coords="185,136,343,177"/>
+</map>

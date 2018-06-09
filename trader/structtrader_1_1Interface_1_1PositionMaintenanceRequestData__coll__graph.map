@@ -1,0 +1,15 @@
+<map id="trader::Interface::PositionMaintenanceRequestData" name="trader::Interface::PositionMaintenanceRequestData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="351,5,474,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1UndInstrmtGrpObject.html" title="trader::Interface::\lUndInstrmtGrpObject" alt="" coords="339,71,486,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="351,136,474,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1TrdgSesGrpObject.html" title="trader::Interface::\lTrdgSesGrpObject" alt="" coords="347,201,478,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1PositionAmountDataObject.html" title="trader::Interface::\lPositionAmountDataObject" alt="" coords="323,267,503,308"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="341,332,484,373"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="351,397,474,439"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,267,154,308"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,332,148,373"/>
+<area shape="rect" id="node12" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,397,168,439"/>
+<area shape="rect" id="node13" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,463,163,504"/>
+<area shape="rect" id="node14" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,528,154,569"/>
+<area shape="rect" id="node15" href="$structtrader_1_1Interface_1_1PositionQtyObject.html" title="trader::Interface::\lPositionQtyObject" alt="" coords="349,463,477,504"/>
+</map>

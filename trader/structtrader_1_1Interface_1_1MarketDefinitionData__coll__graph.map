@@ -1,0 +1,11 @@
+<map id="trader::Interface::MarketDefinitionData" name="trader::Interface::MarketDefinitionData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="308,13,431,54"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1BaseTradingRulesObject.html" title="trader::Interface::\lBaseTradingRulesObject" alt="" coords="286,107,453,149"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1PriceLimitsObject.html" title="trader::Interface::\lPriceLimitsObject" alt="" coords="13,57,139,98"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1LotTypeRulesObject.html" title="trader::Interface::\lLotTypeRulesObject" alt="" coords="5,122,147,163"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1TickRulesObject.html" title="trader::Interface::\lTickRulesObject" alt="" coords="15,187,137,229"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1ApplicationSequenceControlObject.html" title="trader::Interface::\lApplicationSequenceControl\lObject" alt="" coords="276,173,463,229"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1TimeInForceRulesObject.html" title="trader::Interface::\lTimeInForceRulesObject" alt="" coords="286,254,453,295"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1ExecInstRulesObject.html" title="trader::Interface::\lExecInstRulesObject" alt="" coords="296,319,443,361"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1OrdTypeRulesObject.html" title="trader::Interface::\lOrdTypeRulesObject" alt="" coords="297,385,441,426"/>
+</map>

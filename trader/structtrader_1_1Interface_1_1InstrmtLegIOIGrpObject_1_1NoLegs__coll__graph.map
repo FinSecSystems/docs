@@ -1,0 +1,5 @@
+<map id="trader::Interface::InstrmtLegIOIGrpObject::NoLegs" name="trader::Interface::InstrmtLegIOIGrpObject::NoLegs">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1LegStipulationsObject.html" title="trader::Interface::\lLegStipulationsObject" alt="" coords="5,109,155,151"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1InstrumentLegObject.html" title="trader::Interface::\lInstrumentLegObject" alt="" coords="179,109,322,151"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1LegSecAltIDGrpObject.html" title="trader::Interface::\lLegSecAltIDGrpObject" alt="" coords="173,5,328,47"/>
+</map>

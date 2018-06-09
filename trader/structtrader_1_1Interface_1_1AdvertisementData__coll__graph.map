@@ -1,0 +1,11 @@
+<map id="trader::Interface::AdvertisementData" name="trader::Interface::AdvertisementData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="335,5,457,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1UndInstrmtGrpObject.html" title="trader::Interface::\lUndInstrmtGrpObject" alt="" coords="323,71,469,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="325,136,467,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="335,201,457,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,71,154,112"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,136,148,177"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,201,168,243"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,267,163,308"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,332,154,373"/>
+</map>

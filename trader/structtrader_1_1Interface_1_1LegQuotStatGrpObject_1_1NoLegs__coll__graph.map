@@ -1,0 +1,6 @@
+<map id="trader::Interface::LegQuotStatGrpObject::NoLegs" name="trader::Interface::LegQuotStatGrpObject::NoLegs">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1NestedPartiesObject.html" title="trader::Interface::\lNestedPartiesObject" alt="" coords="307,5,450,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1LegStipulationsObject.html" title="trader::Interface::\lLegStipulationsObject" alt="" coords="304,71,453,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1InstrumentLegObject.html" title="trader::Interface::\lInstrumentLegObject" alt="" coords="307,136,450,177"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1LegSecAltIDGrpObject.html" title="trader::Interface::\lLegSecAltIDGrpObject" alt="" coords="5,136,160,177"/>
+</map>

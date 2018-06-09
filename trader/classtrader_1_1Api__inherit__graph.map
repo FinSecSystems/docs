@@ -1,0 +1,7 @@
+<map id="trader::Api" name="trader::Api">
+<area shape="rect" id="node2" href="$classtrader_1_1Bittrex.html" title="A bittrex. " alt="" coords="165,5,267,32"/>
+<area shape="rect" id="node3" href="$classtrader_1_1Cryptowatch.html" title="A cryptowatch. " alt="" coords="147,56,285,83"/>
+<area shape="rect" id="node4" href="$classtrader_1_1Exchangeratelab.html" title="An exchangeratelab. " alt="" coords="136,107,296,133"/>
+<area shape="rect" id="node5" href="$classtrader_1_1Fyb.html" title="A fyb. " alt="" coords="173,157,259,184"/>
+<area shape="rect" id="node6" href="$classtrader_1_1Kraken.html" title="A kraken. " alt="" coords="164,208,268,235"/>
+</map>

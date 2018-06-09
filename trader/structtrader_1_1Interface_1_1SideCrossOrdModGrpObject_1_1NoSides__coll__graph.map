@@ -1,0 +1,6 @@
+<map id="trader::Interface::SideCrossOrdModGrpObject::NoSides" name="trader::Interface::SideCrossOrdModGrpObject::NoSides">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="25,5,147,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1OrderQtyDataObject.html" title="trader::Interface::\lOrderQtyDataObject" alt="" coords="15,71,157,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PreAllocGrpObject.html" title="trader::Interface::\lPreAllocGrpObject" alt="" coords="21,136,151,177"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1CommissionDataObject.html" title="trader::Interface::\lCommissionDataObject" alt="" coords="5,201,167,243"/>
+</map>

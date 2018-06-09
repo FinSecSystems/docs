@@ -1,0 +1,6 @@
+<map id="trader::Interface::InstrmtLegSecListGrpObject::NoLegs" name="trader::Interface::InstrmtLegSecListGrpObject::NoLegs">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1LegStipulationsObject.html" title="trader::Interface::\lLegStipulationsObject" alt="" coords="335,5,484,47"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1LegBenchmarkCurveDataObject.html" title="trader::Interface::\lLegBenchmarkCurveDataObject" alt="" coords="304,71,515,112"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1InstrumentLegObject.html" title="trader::Interface::\lInstrumentLegObject" alt="" coords="338,136,481,177"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1LegSecAltIDGrpObject.html" title="trader::Interface::\lLegSecAltIDGrpObject" alt="" coords="5,136,160,177"/>
+</map>

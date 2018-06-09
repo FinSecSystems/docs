@@ -1,0 +1,17 @@
+<map id="trader::Interface::OrderMassCancelReportData" name="trader::Interface::OrderMassCancelReportData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="423,5,546,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="423,71,546,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1AffectedOrdGrpObject.html" title="trader::Interface::\lAffectedOrdGrpObject" alt="" coords="409,136,560,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1UnderlyingInstrumentObject.html" title="trader::Interface::\lUnderlyingInstrumentObject" alt="" coords="393,201,577,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1UnderlyingStipulationsObject.html" title="trader::Interface::\lUnderlyingStipulationsObject" alt="" coords="9,71,199,112"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1UndSecAltIDGrpObject.html" title="trader::Interface::\lUndSecAltIDGrpObject" alt="" coords="25,136,183,177"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1UndlyInstrumentPartiesObject.html" title="trader::Interface::\lUndlyInstrumentPartiesObject" alt="" coords="5,201,203,243"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1NotAffectedOrdersGrpObject.html" title="trader::Interface::\lNotAffectedOrdersGrpObject" alt="" coords="389,267,580,308"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="423,332,546,373"/>
+<area shape="rect" id="node12" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="37,267,171,308"/>
+<area shape="rect" id="node13" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="43,332,165,373"/>
+<area shape="rect" id="node14" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="23,397,185,439"/>
+<area shape="rect" id="node15" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="27,463,181,504"/>
+<area shape="rect" id="node16" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="37,528,171,569"/>
+<area shape="rect" id="node17" href="$structtrader_1_1Interface_1_1TargetPartiesObject.html" title="trader::Interface::\lTargetPartiesObject" alt="" coords="415,397,554,439"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="trader::Interface::SettlInstGrpObject::NoSettlInst" name="trader::Interface::SettlInstGrpObject::NoSettlInst">
+<area shape="rect" id="node2" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="5,109,128,151"/>
+<area shape="rect" id="node3" href="$structtrader_1_1Interface_1_1SettlInstructionsDataObject.html" title="trader::Interface::\lSettlInstructionsDataObject" alt="" coords="153,109,335,151"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1DlvyInstGrpObject.html" title="trader::Interface::\lDlvyInstGrpObject" alt="" coords="179,5,309,47"/>
+</map>

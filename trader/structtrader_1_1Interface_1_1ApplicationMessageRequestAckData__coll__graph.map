@@ -1,0 +1,5 @@
+<map id="trader::Interface::ApplicationMessageRequestAckData" name="trader::Interface::ApplicationMessageRequestAckData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="221,5,343,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="221,71,343,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1ApplIDRequestAckGrpObject.html" title="trader::Interface::\lApplIDRequestAckGrpObject" alt="" coords="185,136,379,177"/>
+</map>

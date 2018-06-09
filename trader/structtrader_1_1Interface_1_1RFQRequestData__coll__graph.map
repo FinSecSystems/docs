@@ -1,0 +1,5 @@
+<map id="trader::Interface::RFQRequestData" name="trader::Interface::RFQRequestData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="191,5,313,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="191,71,313,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1RFQReqGrpObject.html" title="trader::Interface::\lRFQReqGrpObject" alt="" coords="185,136,319,177"/>
+</map>

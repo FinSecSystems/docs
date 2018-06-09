@@ -1,0 +1,13 @@
+<map id="trader::Interface::SecurityStatusRequestData" name="trader::Interface::SecurityStatusRequestData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="351,5,474,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1UndInstrmtGrpObject.html" title="trader::Interface::\lUndInstrmtGrpObject" alt="" coords="339,71,486,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="341,136,484,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1InstrumentExtensionObject.html" title="trader::Interface::\lInstrumentExtensionObject" alt="" coords="323,201,503,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1AttrbGrpObject.html" title="trader::Interface::\lAttrbGrpObject" alt="" coords="25,152,148,193"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="351,316,474,357"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,217,154,259"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,283,148,324"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,348,168,389"/>
+<area shape="rect" id="node12" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,413,163,455"/>
+<area shape="rect" id="node13" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,479,154,520"/>
+</map>

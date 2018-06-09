@@ -1,0 +1,6 @@
+<map id="trader::Kraken" name="trader::Kraken">
+<area shape="rect" id="node2" href="$classtrader_1_1Api.html" title="trader::Api" alt="" coords="5,109,88,136"/>
+<area shape="rect" id="node3" href="$classtrader_1_1KrakenApi_1_1EndPoints.html" title="trader::KrakenApi::\lEndPoints" alt="" coords="84,199,215,240"/>
+<area shape="rect" id="node4" href="$classtrader_1_1KrakenConfig.html" title="trader::KrakenConfig" alt="" coords="113,109,255,136"/>
+<area shape="rect" id="node6" href="$structtrader_1_1KrakenConfig_1_1DataObject.html" title="trader::KrakenConfig\l::DataObject" alt="" coords="193,5,335,47"/>
+</map>

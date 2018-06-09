@@ -1,0 +1,19 @@
+<map id="trader::Interface::CollateralResponseData" name="trader::Interface::CollateralResponseData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="365,5,487,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1TrdCollGrpObject.html" title="trader::Interface::\lTrdCollGrpObject" alt="" coords="365,71,487,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1PartiesObject.html" title="trader::Interface::\lPartiesObject" alt="" coords="365,136,487,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1TrdRegTimestampsObject.html" title="trader::Interface::\lTrdRegTimestampsObject" alt="" coords="339,201,513,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1SpreadOrBenchmarkCurveDataObject.html" title="trader::Interface::\lSpreadOrBenchmarkCurveData\lObject" alt="" coords="323,267,529,323"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1MiscFeesGrpObject.html" title="trader::Interface::\lMiscFeesGrpObject" alt="" coords="357,348,495,389"/>
+<area shape="rect" id="node9" href="$structtrader_1_1Interface_1_1UndInstrmtCollGrpObject.html" title="trader::Interface::\lUndInstrmtCollGrpObject" alt="" coords="341,413,511,455"/>
+<area shape="rect" id="node10" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="355,479,497,520"/>
+<area shape="rect" id="node11" href="$structtrader_1_1Interface_1_1InstrumentObject.html" title="trader::Interface::\lInstrumentObject" alt="" coords="365,544,487,585"/>
+<area shape="rect" id="node12" href="$structtrader_1_1Interface_1_1SecAltIDGrpObject.html" title="trader::Interface::\lSecAltIDGrpObject" alt="" coords="19,413,154,455"/>
+<area shape="rect" id="node13" href="$structtrader_1_1Interface_1_1EvntGrpObject.html" title="trader::Interface::\lEvntGrpObject" alt="" coords="25,479,148,520"/>
+<area shape="rect" id="node14" href="$structtrader_1_1Interface_1_1InstrumentPartiesObject.html" title="trader::Interface::\lInstrumentPartiesObject" alt="" coords="5,544,168,585"/>
+<area shape="rect" id="node15" href="$structtrader_1_1Interface_1_1ComplexEventsObject.html" title="trader::Interface::\lComplexEventsObject" alt="" coords="10,609,163,651"/>
+<area shape="rect" id="node16" href="$structtrader_1_1Interface_1_1SecurityXMLObject.html" title="trader::Interface::\lSecurityXMLObject" alt="" coords="19,675,154,716"/>
+<area shape="rect" id="node17" href="$structtrader_1_1Interface_1_1StipulationsObject.html" title="trader::Interface::\lStipulationsObject" alt="" coords="362,609,490,651"/>
+<area shape="rect" id="node18" href="$structtrader_1_1Interface_1_1ExecCollGrpObject.html" title="trader::Interface::\lExecCollGrpObject" alt="" coords="359,675,493,716"/>
+<area shape="rect" id="node19" href="$structtrader_1_1Interface_1_1FinancingDetailsObject.html" title="trader::Interface::\lFinancingDetailsObject" alt="" coords="347,740,505,781"/>
+</map>

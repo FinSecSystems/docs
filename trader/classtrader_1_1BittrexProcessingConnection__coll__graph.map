@@ -1,0 +1,9 @@
+<map id="trader::BittrexProcessingConnection" name="trader::BittrexProcessingConnection">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1MessageReceivingConnection.html" title="trader::Interface::\lMessageReceivingConnection" alt="" coords="5,265,204,307"/>
+<area shape="rect" id="node3" href="$classtrader_1_1Interface_1_1Connection.html" title="trader::Interface::\lConnection" alt="" coords="19,96,142,137"/>
+<area shape="rect" id="node4" href="$classtrader_1_1Interface_1_1IConnection.html" title="trader::Interface::\lIConnection" alt="" coords="19,5,142,47"/>
+<area shape="rect" id="node9" href="$classtrader_1_1BittrexConfig.html" title="trader::BittrexConfig" alt="" coords="166,103,305,130"/>
+<area shape="rect" id="node6" href="$classtrader_1_1Bittrex.html" title="A bittrex. " alt="" coords="207,331,309,357"/>
+<area shape="rect" id="node7" href="$classtrader_1_1Api.html" title="trader::Api" alt="" coords="329,103,411,130"/>
+<area shape="rect" id="node8" href="$classtrader_1_1BittrexApi_1_1EndPoints.html" title="trader::BittrexApi\l::EndPoints" alt="" coords="198,200,318,241"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="trader::Interface::EmailData" name="trader::Interface::EmailData">
+<area shape="rect" id="node2" href="$classtrader_1_1Interface_1_1IMessageData.html" title="trader::Interface::\lIMessageData" alt="" coords="200,5,323,47"/>
+<area shape="rect" id="node4" href="$structtrader_1_1Interface_1_1LinesOfTextGrpObject.html" title="trader::Interface::\lLinesOfTextGrpObject" alt="" coords="185,71,337,112"/>
+<area shape="rect" id="node5" href="$structtrader_1_1Interface_1_1UndInstrmtGrpObject.html" title="trader::Interface::\lUndInstrmtGrpObject" alt="" coords="188,136,335,177"/>
+<area shape="rect" id="node6" href="$structtrader_1_1Interface_1_1RoutingGrpObject.html" title="trader::Interface::\lRoutingGrpObject" alt="" coords="198,201,325,243"/>
+<area shape="rect" id="node7" href="$structtrader_1_1Interface_1_1InstrmtLegGrpObject.html" title="trader::Interface::\lInstrmtLegGrpObject" alt="" coords="190,267,333,308"/>
+<area shape="rect" id="node8" href="$structtrader_1_1Interface_1_1InstrmtGrpObject.html" title="trader::Interface::\lInstrmtGrpObject" alt="" coords="200,332,323,373"/>
+</map>
